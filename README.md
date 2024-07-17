@@ -1,5 +1,5 @@
 # payment gateway backend Application
-## hosted Link : https://payment-gateway-2-aacu.onrender.com/
+## hosted Link : https://payment-gateway-2-aacu.onrender.com/ (**Take Some time to open because it hosted on free server, so pls wait**)
 ## To test apis, go to Swagger https://payment-gateway-2-aacu.onrender.com/api-docs || https://payment-gateway-1-brea.onrender.com/api-docs 
 ### You can also test using postman etc. All api endpoints details given in api-docs
 
