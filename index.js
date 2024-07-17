@@ -13,6 +13,11 @@ connectDb();
 app.use("/api/auth", userRouter);
 app.use("/api", paymentRouter);
 
+app.get("/", (req, res) => {
+  res.end(
+    "Api working fine, Pls move to https://payment-gateway-1-brea.onrender.com/api-docs "
+  );
+});
 swaggerDocs(app);
 
 app.listen(PORT, () => console.log("Server up and running"));

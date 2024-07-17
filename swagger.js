@@ -11,7 +11,7 @@ const options = {
     },
     servers: [
       {
-        url: "http://localhost:3000",
+        url: "https://payment-gateway-1-brea.onrender.com/",
       },
     ],
   },
